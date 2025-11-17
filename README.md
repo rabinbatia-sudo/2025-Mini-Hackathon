@@ -1,13 +1,14 @@
 ### Election Prediction Hackathon Project
 McKenzie Skrastins, Kristina Donders, & Batia Rabin
 
-A presentation outlining our approach can be found here: https://docs.google.com/presentation/d/1c9dIvLE3F2Mx3Tn9X3jVn3NBVLQeT1evCX8y_jj8QjI/edit?slide=id.g3a3b4775ea9_0_0#slide=id.g3a3b4775ea9_0_0
-
 This project was awarded Best Data Project at the hackathon!
 
-Overview:
+### Overview:
 This repository contains the code and materials for a project developed during the Binghamton Codes! X DiDa Mini Hackathon. The goal was to answer the question:
 Can we predict which candidate received the majority of votes in each U.S. county for the 2024 election using county-level election data from 2000–2020?
+
+### A presentation outlining our approach can be found here:
+https://docs.google.com/presentation/d/1c9dIvLE3F2Mx3Tn9X3jVn3NBVLQeT1evCX8y_jj8QjI/edit?slide=id.g3a3b4775ea9_0_0#slide=id.g3a3b4775ea9_0_0
 
 ### Approach
 1. Data Cleaning & Preprocessing
